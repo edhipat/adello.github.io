@@ -1,68 +1,38 @@
+- slug: adtech
+  name: ADtech
+
 - slug: api
   name: API
 
-- slug: automation
-  name: Automation
-
-- slug: bots
-  name: Bots
-
-- slug: cloud
-  name: Cloud
-
-- slug: concepts
-  name: Concepts
+- slug: aws
+  name: AWS
 
 - slug: conference
   name: Conference
 
-- slug: content
-  name: Content
-
 - slug: cto
   name: CTO
+
+- slug: container
+  name: Container
 
 - slug: culture
   name: Culture
 
-- slug: custdev
-  name: Customer Development
-
 - slug: data
-  name: Data
+  name: Data Science
 
 - slug: design
   name: Design
 
-- slug: development
-  name: Development
-
 - slug: devops
   name: Devops
-
-- slug: docker
-  name: Docker
 
 - slug: frontend
   name: Frontend
 
-- slug: general
-  name: General
-
 - slug: howto
   name: HowTo
-
-- slug: ideas
-  name: Ideation
-
-- slug: logging
-  name: Logging
-
-- slug: kubernetes
-  name: Kubernetes
-
-- slug: microservice
-  name: Microservice
 
 - slug: mobile
   name: Mobile
@@ -70,20 +40,8 @@
 - slug: open-source
   name: Open Source
 
-- slug: patterns
-  name: Patterns
-
-- slug: readinglist
-  name: Reading List
-
-- slug: security
-  name: Security
-
-- slug: serverless
-  name: Serverless
-
-- slug: springboot
-  name: Spring Boot
+- slug: reading
+  name: Reading
 
 - slug: ux
   name: UX

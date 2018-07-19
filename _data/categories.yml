@@ -1,5 +1,8 @@
-- slug: dev
-  name: Dev
+- slug: platform
+  name: Platform
   
-- slug: design
-  name: Design
+- slug: data
+  name: Data Science
+
+- slug: product
+  name: Product
