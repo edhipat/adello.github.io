@@ -3,12 +3,12 @@
 #
 
 # Your site
-title:
+title: Dev Blog
 header-img: images/adello-headline.png
-email: your-email@yourdomain.com
+email: holger.reinhardt@adello.com
 copyright_name: Adello Group AG
 description: Engineering Blog @ adello.com
-headline: We Are Adello
+headline: Adello AI
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/adello/adello.github.io/master/images/adello-avatar.png
