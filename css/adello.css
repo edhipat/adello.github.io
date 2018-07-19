@@ -20,3 +20,9 @@
     background-size: 220px;
     background-repeat: no-repeat;
 }
+
+.footer-links {
+    font-weight: 300;
+    text-align: center;
+    margin: 30px;
+}	
