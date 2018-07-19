@@ -1,8 +1,8 @@
 ---
 layout: post_by_tag
-title: CTO
-tag: cto
-permalink: /meta/tag/cto/
+title: AdTech
+tag: adtech
+permalink: /meta/tag/adtech/
 header-img: 
 search_omit: true
 ---

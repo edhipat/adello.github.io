@@ -1,8 +1,8 @@
 ---
 layout: post_by_tag
-title: HowTo
-tag: howto
-permalink: /meta/tag/howto/
+title: Reading
+tag: reading
+permalink: /meta/tag/reading/
 header-img: 
 search_omit: true
 ---

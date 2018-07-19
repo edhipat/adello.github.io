@@ -4,8 +4,8 @@
 - slug: api
   name: API
 
-- slug: aws
-  name: AWS
+- slug: cloud
+  name: Cloud
 
 - slug: conference
   name: Conference
@@ -13,23 +13,14 @@
 - slug: cto
   name: CTO
 
-- slug: container
-  name: Container
-
 - slug: culture
   name: Culture
-
-- slug: data
-  name: Data Science
-
-- slug: design
-  name: Design
 
 - slug: devops
   name: Devops
 
-- slug: frontend
-  name: Frontend
+- slug: docker
+  name: Docker
 
 - slug: howto
   name: HowTo
