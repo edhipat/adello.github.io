@@ -1,0 +1,22 @@
+.nav-logo {
+    width: 220px;
+    height: 20px;
+    margin-top: 22px;
+    margin-left: 10px;
+    float: left;
+}
+@media only screen and (max-width: 650px) {
+    .nav-logo {
+       margin: 0px 15px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .nav-logo {
+       margin: 16px 15px;
+    }
+}
+.logo-white {
+    background-image: url("../images/adello-logo-white.png");
+    background-size: 220px;
+    background-repeat: no-repeat;
+}
