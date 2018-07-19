@@ -2,6 +2,7 @@
 layout: page
 title: Jobs
 exclude_from_nav: true
+search_omit: true
 navigation_weight: 4
 permalink: /jobs/
 ---
