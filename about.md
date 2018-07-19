@@ -10,18 +10,12 @@ permalink: /about/
 
 ### More Information
 
-The Haufe Group stands for integrated cloud and desktop solutions in the areas of taxation, legal, bookkeeping, learning, and talent management It is a leading media and software vendor for professional online portals, e-procurement, online communities, and human resource & organizational development solutions. 
+Adello delivers exceptional accuracy in audience targeting through award-winning deep learning technology and self-improving campaigns. Adello's real-time machine learning automatically improves campaigns. This creates deeper insight, accurate audience targeting, and exceptional results.
 
-The main target groups are large and midsize firms, small businesses and freelancers, tax advisers and lawyers, the public sector, real estate agents, and nonprofit organizations. A number of our brands – Haufe, Haufe Academy, and Lexware – are market leaders in these target groups. 
+Hundreds of advertising customers trust Adello’s self-learning campaigns to achieve their brand and direct-response goals, such as L’Oreal, Sony Music, Samsung, BMW, Warner Bros, UBS, and Ikea. Adello has offices across Europe, North America, and Asia.
 
-#### Corporate Background 
-
-The Haufe Group emerged from a successful publisher and the provider of Lexware, a leading source of commercial software for small firms; over time, it grew to offer a comprehensive portfolio of digital and web-based solutions. Its wide range of products and services have been merged in integrated workstation solutions that allow customers to work effectively. 
-
-#### Current Market Position 
-
-The Haufe Group is now considered one of the most innovative media and software vendors in Germany. Its solutions use state-of-the-art technology and are very user-friendly and practice-oriented. More than one million customers – including all DAX 30 firms – generate over 266 million euros in revenue. The Freiburg-based firm currently has some 1,500 employees within Germany and abroad. The Group's international growth strategy is based on its current product portfolio, and it expands on an ongoing basis thanks to the synergies which evolve from the core competencies and strengths of the individual firms and brands within the Group. 
+Adello's proprietary technology has won multiple awards, including: Venture Leader China (2015), Technavio Global Top 16 Big Data Companies (2014), Gartner’s Cool Vendor in Infrastructure (2012), Top100 Startup Winner (2012 & 2013) and  CRN Big Data 100 (2012). 
 
 ### Contact us
 
-[info(at)haufe-lexware.com](mailto:info@haufe-lexware.com)
+Please visit www.adello.com or contact us directly at [info(at)adello.com](mailto:info@adello.com).
