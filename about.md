@@ -6,8 +6,6 @@ navigation_weight: 4
 permalink: /about/
 ---
 
-
-
 ### More Information
 
 Adello delivers exceptional accuracy in audience targeting through award-winning deep learning technology and self-improving campaigns. Adello's real-time machine learning automatically improves campaigns. This creates deeper insight, accurate audience targeting, and exceptional results.
