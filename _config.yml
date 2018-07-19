@@ -4,14 +4,14 @@
 
 # Your site
 title:
-header-img: images/background2.jpg
+header-img: images/adello-headline.png
 email: your-email@yourdomain.com
 copyright_name: Adello Group AG
-description: Engineering Blog of adello.com
-headline: machinelearning meets fintech meets mobile
+description: Engineering Blog @ adello.com
+headline: ai meets fintech meets mobile
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/adello/adello.github.io/master/images/adello.jpg
+avatar: https://raw.githubusercontent.com/adello/adello.github.io/master/images/adello-avatar.png
 
 #
 # Flags below are optional
@@ -44,7 +44,7 @@ footer-links:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://work.haufegroup.io
+url: https://adello.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
