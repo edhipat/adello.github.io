@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Careers
+title: Jobs
 exclude_from_nav: true
 search_omit: true
 navigation_weight: 4
