@@ -18,4 +18,4 @@ Adello's proprietary technology has won multiple awards, including: Venture Lead
 
 ### Contact us
 
-Please visit www.adello.com or contact us directly at [info(at)adello.com](mailto:info@adello.com).
+Please visit [www.adello.com](https://www.adello.com) or contact us directly at [info(at)adello.com](mailto:info@adello.com).
