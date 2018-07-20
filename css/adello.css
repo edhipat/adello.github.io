@@ -16,11 +16,17 @@
        margin: 16px 15px;
     }
 }
-.logo-white {
+.logo-negative { 
     background-image: url("../images/adello-logo-white.png");
     background-size: 220px;
     background-repeat: no-repeat;
 }
+  .logo-positive {
+    background-image: url("../images/adello-logo-blue.png");
+    background-size: 220px;
+    background-repeat: no-repeat;
+} 
+
 
 /* footer links */
 .footer-links {
