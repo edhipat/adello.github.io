@@ -1,3 +1,21 @@
+/* nav bar */
+@media only screen and (min-width: 1170px) {
+    .navbar-custom.is-fixed .nav li a:hover,
+    .navbar-custom.is-fixed .nav li a:focus {
+    /* color: #0085a1; */
+     color: #005DA5;	  
+    }
+    .navbar-custom.is-visible {
+      /* if the user changes the scrolling direction, we show the header */
+      -webkit-transform: translate3d(0, 100%, 0);
+      -moz-transform: translate3d(0, 100%, 0);
+      -ms-transform: translate3d(0, 100%, 0);
+      -o-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+    }
+}
+
+
 /* top left logo */
 .nav-logo {
     width: 220px;
@@ -21,12 +39,11 @@
     background-size: 220px;
     background-repeat: no-repeat;
 }
-  .logo-positive {
-    background-image: url("../images/adello-logo-blue.png");
+.logo-positive {
+    background-image: url("../images/adello-logo-black.png");
     background-size: 220px;
     background-repeat: no-repeat;
 } 
-
 
 /* footer links */
 .footer-links {
