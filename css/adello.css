@@ -1,7 +1,7 @@
 /* nav bar */
 @media only screen and (min-width: 1170px) {
     .navbar-custom.is-fixed {
-        top: -83px;
+        top: -93px;
     }
     .navbar-custom.is-fixed .nav li a:hover,
     .navbar-custom.is-fixed .nav li a:focus {
