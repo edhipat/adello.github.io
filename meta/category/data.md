@@ -1,6 +1,6 @@
 ---
 layout: post_by_category
-title: Data Science
+title: "Data Science"
 category: data
 permalink: /meta/category/data/
 header-img: 

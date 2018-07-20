@@ -1,11 +1,8 @@
-- slug: platform
-  name: Platform
+- slug: dev
+  name: Development
   
 - slug: data
   name: Data Science
-
-- slug: product
-  name: Product
 
 - slug: frontend
   name: Creatives
