@@ -1,5 +1,8 @@
 /* nav bar */
 @media only screen and (min-width: 1170px) {
+    .navbar-custom.is-fixed {
+        top: -83px;
+    }
     .navbar-custom.is-fixed .nav li a:hover,
     .navbar-custom.is-fixed .nav li a:focus {
     /* color: #0085a1; */
@@ -14,7 +17,6 @@
       transform: translate3d(0, 100%, 0);
     }
 }
-
 
 /* top left logo */
 .nav-logo {
