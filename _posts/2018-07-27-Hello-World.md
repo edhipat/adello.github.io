@@ -8,7 +8,7 @@ author: Holger Reinhardt
 header-img: "images/home-bg.jpg"
 ---
 
-This developer blog started from a challenge during a team dinner, when my team told me that talk is cheap and that in the end I wil be measued by my actions. And the one example mentioned was the developer blog which I keep talking about as our visibile statement to our engineering culture in Adello. 
+This developer blog started from a challenge during a team dinner. When debating the merits of various proposals of mine my team told me that talk is cheap and that in the end I will be measured by my actions. And the one example mentioned was the developer blog which I (and my predecessors obviously) keept talking about as our visibile statement to our engineering culture in Adello. 
 
 And looking back I had been there once before - 3 years ago as CTO of [Haufe Group](https://www.haufegroup.com). And it is ironic that again I am faced with the very same challenges. We are probably one of the few startups who run Machine Learning globally and at scale on top of Petabyte Data and who are actually having a thriving business powered by algorithms. Yet no one knows us. Other's talk about Machine Learning and have the powerpoints and flashy websites, yet we finally managed to (re)launch [our website](https://wwww.adello.com) two months ago.
 
