@@ -26,4 +26,4 @@ You see, I am a pretty opiniated guy. I can probably talk for hours about Micros
 
 (For reference, you can find my original post [here](http://work.haufegroup.io/Hello-World/).)
 
-And yes, once more I would like to invite you to listen to our stories and find those few nuggets helpful for your own journey. And once more we are hoping to return something to the larger community, from whom we have learned so much. We truely stand on the shoulder of giants. So here is the beginning of our (and my next) story .. 
+And yes, once more I would like to invite you to listen to our stories and find those few nuggets helpful for your own journey. And once more we are hoping to return something to the larger community, from whom we have learned so much. We truely stand on the shoulder of giants. So here is the beginning of our (and my next) story ...

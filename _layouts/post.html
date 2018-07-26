@@ -95,6 +95,7 @@ layout: default
 
 				{{ content }}
 
+                {% if page.next.url %}
                 <hr>
 
                 <ul class="pager">
@@ -111,6 +112,7 @@ layout: default
                 </ul>
 
                 <hr>
+                {% endif %}
 
                 {% include disqus.html %}
 
