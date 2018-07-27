@@ -12,6 +12,13 @@ If everything works out, the jekyll server will serve the blog preview on `http:
 
 If you find bugs or issues you can [open an issue](https://github.com/adello/adello.github.io/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
+### What to look out for
+
+* If you are a new authore, please add yourself to [authors.yml](https://github.com/adello/adello.github.io/blob/master/_data/authors.yml). All social media information is strictly voluntary.
+* Categories and tags are pre-defind in [categories.yml](https://github.com/adello/adello.github.io/blob/master/_data/categories.yml) and [tags.yml](https://github.com/adello/adello.github.io/blob/master/_data/tags.yml) respectively. Please stick to those. If you want to add new ones please contact one of the admins.
+* Categories are Data Science, Creatives (= Mobile User Interaction design, aka AdUnits) and Development.
+* Any questions, just ask.
+
 ---
 
 ### Credits
