@@ -10,9 +10,8 @@ permalink: /impressum/
 Adello Group AG,
 Höschgasse 31,
 8008 Zürich,
-Schweiz 
-
-Telefon: +41 44 500 3150
+Schweiz,
+Telefon: +41 44 500 3150,
 E-Mail: info(at)adello.com
 
 ### Firmennummer
@@ -24,8 +23,7 @@ Die Gesellschaft bezweckt die Entwicklung, den Betrieb und die Lizenzierung von 
 
 ### Rechtsform
 Aktiengesellschaft,
-Aktienkapital CHF 100’000, voll liberiert
-
+Aktienkapital CHF 100’000, voll liberiert,
 Eintragung 16.01.2013
 
 ### Revisionsstelle
