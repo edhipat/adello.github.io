@@ -6,20 +6,31 @@ navigation_weight: 5
 permalink: /impressum/
 ---
 
-Holger Reinhardt
-(verantwortlich i.S.d. § 55 Abs. 2 RStV)
-
-### Anschrift:
-
+### Anschrift
 Adello Group AG
 Höschgasse 31
 8008 Zürich
-Switzerland
+Schweiz 
+Telefon: +41 44 500 3150
+E-Mail: info(at)adello.com
 
-info@adello.com
+### Firmennummer
+CHE‑314.532.210
+Handelsregister des Kantons Zürich
 
-+41 (44) 500 31 50
+### Zweck
+Die Gesellschaft bezweckt die Entwicklung, den Betrieb und die Lizenzierung von Software und die Erbringung von Dienstleistungen im Bereich digitaler Werbevermarktung. Die Gesellschaft kann im In- und Ausland Tochtergesellschaften und Zweigniederlassungen errichten und sich im In- und Ausland an anderen Unternehmen beteiligen. Sie kann Grundstücke erwerben, halten, belasten und veräussern. Die Gesellschaft kann auch alle kommerziellen, finanziellen und anderen Tätigkeiten ausüben, welche direkt oder indirekt mit dem Zweck der Gesellschaft im Zusammenhang stehen. Die Gesellschaft ist befugt, Finanzierungs-, Sanierungs- und Interzessionsmassnahmen zu Gunsten von Gesellschaftern, Konzerngesellschaften oder Dritten vorzunehmen, sowie Gesellschaftern, Konzerngesellschaften oder Dritten Darlehen oder für deren Verpflichtungen Sicherheiten zu gewähren.
 
--
+### Rechtsform
+Aktiengesellschaft
+Aktienkapital CHF 100’000, voll liberiert
+Eintragung 16.01.2013
 
-Alle Rechte, auch die des auszugsweisen Nachdrucks, der fotomechanischen Wiedergabe (einschließlich Mikrokopie) sowie der Auswertung durch Datenbanken, auch der Einspeisung, Verarbeitung in elektronischen Systemen vorbehalten, gleiches gilt auch für Multimedia-Daten (Ton, Bilder, Programme etc.). Alle Angaben / Daten nach bestem Wissen, jedoch ohne Gewähr für Vollständigkeit und Richtigkeit. Die Verwendung Ihrer Adressdaten und die Verarbeitung bei neutralen Dienstleistern erfolgt unter strikter Beachtung des Datenschutzgesetzes durch die Adello AG und die angeschlossenen und befreundeten Unternehmen ausschließlich zu diesem Zweck.
+### Revisionsstelle
+CAPIT Treuhand- und Revisionsgesellschaft GmbH
+
+### Geschäftsführung
+Mark Forster, CEO
+
+### Mehrwertsteuer-Nummer:
+CHE-314.532.210 MWST
